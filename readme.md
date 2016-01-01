@@ -13,6 +13,7 @@ Note: KLSadd.tex must be in the same directory.
 	> java mMTranslator
 
 
+
 <h3>Alphabet Converter:</h3>
 Converts lowercase characters to uppercase, and vice-versa.
 
